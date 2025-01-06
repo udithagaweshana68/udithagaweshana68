@@ -8,21 +8,18 @@
 
 <div align="center">
  
- 🔭 I’m currently learning in *Uva Welllassa Sri Lanka*
+ 🔭 I’m currently learning in *Uva Welllassa university*
  
- 🌱 I’m currently working on  *Javascript, Python, Flutter, MySQL, MongoDB*
+ 🌱 I’m currently working on  *Javascript, Python, Flutter*
 
 </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.facebook.com/chameera.sandakelum.921" target="blank">
+  <a href="https://web.facebook.com/uditha.dissanayake.37" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chameera sandakelum" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@chameerasandakelum69" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chameera sandakelum" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/cha_mi_ra/" target="blank">
+
+  <a href="https://www.instagram.com/____uditha____/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chameera sandakelum" height="30" width="40" />
   </a>
 </p>
